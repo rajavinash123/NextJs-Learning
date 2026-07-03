@@ -15,3 +15,11 @@ const Page = () => {
 };
 
 export default Page;
+
+//day -2
+//when never you change the link then also change the tile and description
+export const metadata = {
+  title: "about page",
+  description: "this is about page ",
+};
+
