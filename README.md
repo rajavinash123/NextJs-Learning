@@ -1,5 +1,7 @@
 ﻿# NextJs-Learning
  # Next.js Learning Roadmap
+ ![Uploading image.png…]()
+
 
 This repository contains my daily Next.js learning progress, practice code, concepts, and mini-projects.
 
